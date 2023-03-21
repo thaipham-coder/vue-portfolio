@@ -1,0 +1,84 @@
+{
+  "email": "dev.hongthai@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/thái-hồng-34450b24a/",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/thaipham-coder",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    }
+  ],
+  "cv": {
+    "file": "iuri.depaula.cv.pdf",
+    "title": "Download CV",
+    "label": "CV"
+  },
+  "description": [
+    "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.",
+    "From Brazil, based in Barcelona."
+  ],
+  "subtitles": ["he/him"],
+  "skills": [
+    ["Web app architecture", "Strategic thinking", "Storytelling"],
+    ["Frontend", "UX/UI"],
+    [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "React",
+      "Vue",
+      "Node",
+      "Canvas",
+      "SVG",
+      "WebGL"
+    ],
+    ["Figma", "Photoshop", "Illustrator"]
+  ],
+  "experiences": [
+    {
+      "position": "Senior Frontend Engineer",
+      "company": "Activision Blizzard King",
+      "time": "* current"
+    },
+    {
+      "position": "Senior Frontend Engineer",
+      "company": "ON AG",
+      "time": "2021-2023"
+    },
+    {
+      "position": "Senior Frontend Engineer",
+      "company": "fromAtoB",
+      "time": "2021-2022"
+    },
+    {
+      "position": "Head of Frontend & UX",
+      "company": "Biz",
+      "time": "2021 - 2023"
+    },
+    {
+      "position": "Web Designer",
+      "company": "E2W",
+      "time": "20021 - 2023"
+    },
+    {
+      "position": "Freelancer",
+      "company": "Illustrations & Web development"
+    }
+  ],
+  "languages": {
+    "fluent": [
+      ["en-US", "English"],
+      ["pt-BR", "Português"]
+    ],
+    "intermediate": [["es-ES", "Español"]],
+    "basic": [
+      ["de-DE", "Deutsch"],
+      ["ca-ES", "Català"]
+    ]
+  },
+  "busy": ["Pet my dog", "Spanish guitar", "Games", "#eleNÃO"]
+}
